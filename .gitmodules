@@ -5,3 +5,31 @@
 [submodule "branching"]
 	path = branching
 	url = https://github.com/AlexDev404/branching
+
+[submodule "concurrency"]
+	path = concurrency
+	url = https://github.com/AlexDev404/concurrency
+
+[submodule "flags"]
+	path = flags
+	url = https://github.com/AlexDev404/flags
+
+[submodule "hello"]
+	path = hello
+	url = https://github.com/AlexDev404/hello
+
+[submodule "math"]
+	path = math
+	url = https://github.com/AlexDev404/math
+
+[submodule "structs"]
+	path = structs
+	url = https://github.com/AlexDev404/structs
+
+[submodule "the-pipeline"]
+	path = the-pipeline
+	url = https://github.com/AlexDev404/the-pipelne
+
+[submodule "world"]
+	path = world
+	url = https://github.com/AlexDev404/world
