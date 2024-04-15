@@ -1,3 +1,7 @@
 [submodule "go_21_goroutines_pipeline"]
 	path = go_21_goroutines_pipeline
 	url = https://github.com/code-heim/go_21_goroutines_pipeline
+
+[submodule "branching"]
+	path = branching
+	url = https://github.com/AlexDev404/branching
