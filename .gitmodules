@@ -1,3 +1,34 @@
 [submodule "go_21_goroutines_pipeline"]
 	path = go_21_goroutines_pipeline
 	url = https://github.com/code-heim/go_21_goroutines_pipeline
+
+[submodule "branching"]
+	path = branching
+	url = https://github.com/AlexDev404/branching
+
+[submodule "concurrency"]
+	path = concurrency
+	url = https://github.com/AlexDev404/concurrency
+
+[submodule "flags"]
+	path = flags
+	url = https://github.com/AlexDev404/wc-flags
+
+[submodule "hello"]
+	path = hello
+	url = https://github.com/AlexDev404/go-hello-world
+
+[submodule "math"]
+	path = math
+	url = https://github.com/AlexDev404/2242-Q1
+[submodule "structs"]
+	path = structs
+	url = https://github.com/AlexDev404/structs
+
+[submodule "the-pipeline"]
+	path = the-pipeline
+	url = https://github.com/AlexDev404/the-pipelne
+
+[submodule "world"]
+	path = world
+	url = https://github.com/AlexDev404/world
