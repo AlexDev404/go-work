@@ -12,16 +12,15 @@
 
 [submodule "flags"]
 	path = flags
-	url = https://github.com/AlexDev404/flags
+	url = https://github.com/AlexDev404/wc-flags
 
 [submodule "hello"]
 	path = hello
-	url = https://github.com/AlexDev404/hello
+	url = https://github.com/AlexDev404/go-hello-world
 
 [submodule "math"]
 	path = math
-	url = https://github.com/AlexDev404/math
-
+	url = https://github.com/AlexDev404/2242-Q1
 [submodule "structs"]
 	path = structs
 	url = https://github.com/AlexDev404/structs
